@@ -1,0 +1,5 @@
+{
+  "name": "SoundsOn",
+  "description": "A modern music player application similar to Spotify, featuring a sleek interface, playlist management, and seamless playback.",
+  "requestFramePermissions": []
+}
